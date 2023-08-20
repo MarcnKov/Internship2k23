@@ -7,6 +7,8 @@ Front Panel Board (FPB) is an electronics board composed of a set of visible and
 ![Flash Panel Board bottom](FPB_BOT.jpg)
 ![Flash Panel Board top](FPB_TOP.jpg)
 
+**Flash Panel Control Board**
+
 Front Panel Control Board (FPCB) is an electronics board which has as a main function to control the FPB.
 The FPCB is composed of an STM32 microcontroller, step-down converter, overcurrent and overvoltage protection circuitry, step-up converters and LED modulation circuits. The FPCB is not a stand-alone control board, mainly because it receives mission mode commands from the OBC. 
  
