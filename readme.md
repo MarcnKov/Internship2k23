@@ -1,3 +1,5 @@
+**About**
+
 In 2k23 I completed a 6month internship at NiceCube, Lagrange labaratory in Nice. During my internship I worked on the electronics design and PCB development. In 6 months I designed, developed using KiCad and tested two boards presented below (Flash Panel Board) and (Flash Panel Control Board).
 
 **Flash Panel Board**
