@@ -1,6 +1,6 @@
 **About**
 
-In 2k23 I completed a 6month internship at NiceCube, Lagrange labaratory in Nice. During my internship I worked on electronics design and PCB development. In 6 months I sized, developed using KiCad and tested two boards presented below (Flash Panel Board) and (Flash Panel Control Board).
+In 2k23 I completed a 6month internship at NiceCube, Lagrange labaratory in Nice. NiceCube is 3U cubesat that is due to launch in 2025. During my internship I worked on electronics design and PCB development. In 6 months I sized, developed using KiCad and tested two boards presented below (Flash Panel Board) and (Flash Panel Control Board).
 
 **Flash Panel Board**
 
